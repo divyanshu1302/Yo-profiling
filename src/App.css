@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background: gainsboro;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  display: flex;
+  background-color:white;
+  height: 100px;
+  padding: 20px;
+  align-items: center;
+}
+
+.App-title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.header-items{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
